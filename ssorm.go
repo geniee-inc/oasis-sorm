@@ -6,9 +6,9 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/geniee-inc/oasis-sorm/v1.0.3/instrumentation/ssormotel"
-	"github.com/geniee-inc/oasis-sorm/v1.0.3/logger"
-	"github.com/geniee-inc/oasis-sorm/v1.0.3/utils"
+	"github.com/geniee-inc/oasis-sorm/instrumentation/ssormotel"
+	"github.com/geniee-inc/oasis-sorm/logger"
+	"github.com/geniee-inc/oasis-sorm/utils"
 
 	"cloud.google.com/go/spanner"
 	"google.golang.org/api/iterator"

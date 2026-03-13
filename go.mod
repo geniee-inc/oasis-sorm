@@ -1,4 +1,4 @@
-module github.com/geniee-inc/oasis-sorm/v1.0.3
+module github.com/geniee-inc/oasis-sorm
 
 go 1.26
 
@@ -22,7 +22,6 @@ require (
 	github.com/jstemmer/go-junit-report v0.9.1 // indirect
 	github.com/mattn/go-colorable v0.1.12 // indirect
 	github.com/mattn/go-isatty v0.0.14 // indirect
-	github.com/sirupsen/logrus v1.8.1 // indirect
 	go.opencensus.io v0.23.0 // indirect
 	golang.org/x/exp v0.0.0-20220303212507-bbda1eaf7a17 // indirect
 	golang.org/x/lint v0.0.0-20210508222113-6edffad5e616 // indirect

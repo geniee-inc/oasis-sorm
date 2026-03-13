@@ -8,7 +8,7 @@ import (
 	"strings"
 
 	"cloud.google.com/go/spanner"
-	"github.com/geniee-inc/oasis-sorm/v1.0.3/utils"
+	"github.com/geniee-inc/oasis-sorm/utils"
 )
 
 type Builder struct {
