@@ -5,7 +5,7 @@ import (
 	"context"
 	"encoding/json"
 	"fmt"
-	"github.com/geniee-inc/oasis-orm"
+	"github.com/geniee-inc/oasis-sorm"
 	"google.golang.org/api/iterator"
 	"strings"
 	"testing"

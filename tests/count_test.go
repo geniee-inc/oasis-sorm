@@ -3,7 +3,7 @@ package tests
 import (
 	"cloud.google.com/go/spanner"
 	"context"
-	"github.com/geniee-inc/oasis-orm"
+	"github.com/geniee-inc/oasis-sorm"
 	"testing"
 )
 

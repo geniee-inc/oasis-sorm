@@ -8,7 +8,7 @@ import (
 )
 
 const (
-	name = "github.com/geniee-inc/sorm/ssormotel"
+	name = "github.com/geniee-inc/oasis-sorm/ssormotel"
 )
 
 type config struct {

@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"cloud.google.com/go/spanner"
-	"github.com/geniee-inc/oasis-orm"
+	"github.com/geniee-inc/oasis-sorm"
 )
 
 func TestInsertDeleteModel(t *testing.T) {

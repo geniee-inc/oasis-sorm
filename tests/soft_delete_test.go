@@ -4,7 +4,7 @@ import (
 	"cloud.google.com/go/spanner"
 	"context"
 	"fmt"
-	"github.com/geniee-inc/oasis-orm"
+	"github.com/geniee-inc/oasis-sorm"
 	"testing"
 )
 
