@@ -1,11 +1,11 @@
-module github.com/10antz-inc/ssorm/v2
+module github.com/geniee-inc/sorm/v1.0.1
 
-go 1.19
+go 1.26
 
 require (
 	cloud.google.com/go v0.86.0
 	cloud.google.com/go/spanner v1.23.0
-	github.com/10antz-inc/ssorm v1.0.2
+	github.com/geniee-inc/oasis-sorm v1.0.1
 	github.com/rs/zerolog v1.29.1
 	github.com/samber/lo v1.38.1
 	go.opentelemetry.io/otel v1.11.1

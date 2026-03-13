@@ -62,8 +62,8 @@ Additional Tracing Option
 import (
   "go.opentelemetry.io/otel/trace"
 
-  "github.com/10antz-inc/ssorm"
-  "github.com/10antz-inc/ssorm/ssormotel"
+  "github.com/geniee-inc/oasis-orm"
+  "github.com/geniee-inc/oasis-orm/ssormotel"
 )
 
 func main() {
@@ -86,4 +86,4 @@ func main() {
 
 Copyright (c) 2021 10ANTZ, Inc.
 
-SSORM is released under the [MIT License](https://github.com/10antz-inc/ssorm/blob/master/LICENSE)
+SSORM is released under the [MIT License](https://github.com/geniee-inc/oasis-orm/blob/master/LICENSE)
